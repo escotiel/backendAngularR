@@ -1,1 +1,16 @@
-
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Curso de JAVAScript",
+      "validade": "2023-11-30",
+      "preco": 5505
+    },
+    {
+      "nome": "Curso de Angular/IO",
+      "validade": "2023-11-11",
+      "preco": 1200,
+      "id": 2
+    }
+  ]
+}
